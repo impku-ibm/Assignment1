@@ -1,0 +1,96 @@
+.container_12{
+    background: red;
+    overflow: hidden;
+}
+h1.heading.grid_8{
+    background: rgb(240, 227, 227);
+    font-size: 40px;
+}
+header{
+    position:fixed;
+}
+nav{
+    background: rgb(240, 227, 227);
+    height:60px;
+    padding-left: 0%;
+    
+}
+nav li{
+    display: inline;
+    text-decoration:none;
+    font-size: 15px;
+    margin-left:0%;
+    padding:25px;
+}
+
+.wrap{
+    background: rgb(240, 227, 227);
+    margin:auto;
+
+}
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size:50px;
+
+}
+section.grid_4{
+    background: none;
+    margin-left: 0;
+    margin-right:13px;
+    height:200px;
+    width:300px;
+    font-size:14px;
+    margin-top: 90px;
+}
+.hero{
+    background: royalblue;
+    height: 320px;
+    padding-top:0;
+    margin-top: 20px;
+    padding-right: 20px;
+}
+section.grid_6{
+    background:none;
+    margin-left:0;
+    margin-right:10px;
+    margin-top:20px;
+   
+}
+.double{
+    margin-bottom:30px;
+    height: 300px;
+}
+.right{
+    height:300px;
+}
+.right1{
+background: none;
+width:100%;
+height:90px;
+}
+.right2{
+    background:none);
+    height:90px;
+    margin-top: 15px;
+    margin-bottom:15px;
+}
+.right3{
+    background:none;
+    height:90px;
+}
+footer{
+    margin-bottom: 20px;
+    height: 100px;
+    display: inline;
+}
+p .About{
+    float:right;
+}
+ul :hover{
+    background:blue;
+    cursor:pointer;
+}
+li .footter{
+    display:inline;
+}
